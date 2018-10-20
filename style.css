@@ -1,6 +1,7 @@
 #header {
     background-color: #4665A2;
     color: white;
+    text-align: center;
 }
 
 #container {
@@ -29,7 +30,7 @@
     padding: 10px;
     background-color: #999999;
     color: white;
-    text-align: right;
+    text-align: center;
 }
 
 #nav ul {
